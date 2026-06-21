@@ -198,7 +198,7 @@ ahmed.say_hi()
 <br/>
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB?tab=repositories" target="_blank">
+<a href="https://github.com/ahmad-abuzar?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-FF6B6B?style=for-the-badge&logoColor=white" alt="Star Repositories" height="50"/>
 </a>
 
@@ -209,7 +209,7 @@ ahmed.say_hi()
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB">
+<a href="https://github.com/ahmad-abuzar">
   <img src="https://img.shields.io/badge/👨‍💻_Follow-Ahmed_Abuzar-FF6B6B?style=for-the-badge" alt="Follow" height="40"/>
 </a>
 
