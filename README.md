@@ -1,31 +1,216 @@
-# 💫 About Me:
-🔭 I’m currently working on: LLM-powered chatbots, RAG pipelines (ingestion → retrieval → grounding), and n8n automation workflows that connect AI to real tools and APIs—experimenting with xAI models as part of the stack.<br>👯 I’m looking to collaborate on: open-source RAG templates, agentic workflow projects, n8n automation packs, and practical LLM apps (including integrations with xAI where it fits).<br>🤝 I’m looking for help with: improving retrieval quality (chunking/reranking), building solid evaluation harnesses, and scaling/observability patterns for production LLM systems across providers (OpenAI/Anthropic/xAI).<br>🌱 I’m currently learning: LLMOps best practices, latency/cost optimization, safety/guardrails, and better approaches to structured outputs + tool use—plus keeping up with xAI’s model capabilities and APIs.<br>💬 Ask me about: n8n automations, building chatbots, RAG architecture, prompt/tool design, vector databases, and integrating xAI into real products.<br>⚡ Fun fact: I enjoy turning “this process is a mess” into a clean, automated workflow—then measuring it like a real system.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=180&section=header&text=Ahmed%20Abuzar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20|%20AI%20Solution%20Architect&descAlignY=51&descAlign=50" width="100%"/>
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+RAG+%26+LLM+Systems;Architecting+Autonomous+AI+Agents;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.abuzar191) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedabuzar19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-abuzar-a63840315) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abuzar19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.abuzar19@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedabuzar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ahmedabuzar?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ahmedabuzar?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmad-abuzar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmad-abuzar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-abuzar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="4"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmad-abuzar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=%E2%96%AE+NEURAL_LINK%3A+STABLE;%E2%96%AE+SYSTEM_STATUS%3A+ONLINE;%E2%96%AE+AI_CORES%3A+OPERATIONAL" alt="Cyberpunk Green" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9C%A7+DEPLOYING_AUTONOMOUS_AGENTS...;%E2%9C%A7+OPTIMIZING_VECTOR_DBs...;%E2%9C%A7+INTEGRATING_FULL_STACK..." alt="Cyberpunk Blue" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmad-abuzar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmad-abuzar&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abuzar19) 
+```python
+class AIArchitect:
+    def __init__(self):
+        self.name = "Ahmed Abuzar"
+        self.role = "Data Scientist & AI Solution Architect"
+        self.location = "Lahore, Pakistan"
+        self.work_style = "Expert Individual Contributor"
+        self.languages = ["Python", "SQL", "JavaScript"]
+        self.current_focus = [
+            "LLMs, RAG & LangChain Ecosystems",
+            "Autonomous AI Agent Platforms (OpenClaw)",
+            "Deep Learning & Computer Vision",
+            "Full-Stack Integration (Django, MERN, Strapi)"
+        ]
+        self.passion = "Architecting end-to-end intelligent systems from raw data to seamless UIs"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing.")
 
+ahmed = AIArchitect()
+ahmed.say_hi()
+```
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="4"/>
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+</div>
+
+### 💡 What I'm Up To
+
+<br/>
+
+<table>
+  <tr>
+    <td width="20%" valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=10&pause=0&color=00FF9D&center=false&vCenter=false&multiline=true&width=150&height=800&lines=%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;SYSTEM_CORE;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;PROCESSING...;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;NEURAL_SYNC;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;V_2.0.0;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;UPTIME_99%25;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;SECURE_LINK;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;LOAD_BALANCED;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;DATA_FLOW;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;OPTIMIZING...;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;ENCRYPTING...;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;SYNCING_CORES;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;MAPPING_ADDR;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;SYNC_THREAD;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;GPU_LINK;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;BUFFER_FLOW;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;ROOT_RESOLVE;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;SOCKET_LINK;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;PACKET_SYNC;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;ENCRYPT_V2;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;DECODING...;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;AI_INIT...;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;DATA_DUMP;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;CORE_SYNC;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;QUANTUM_ENCRYPTION_ACTIVE;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;PROXY_LINK_STABLE;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;HYPER_THREADING;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;CORE_TEMP_STABLE;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;OVERCLOCK_ENABLED;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;TENSOR_COMPUTE;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;NEURAL_NETWORK;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;MEMORY_CACHE;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;CLOUD_DEPLOY;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;ASYNC_RUNTIME;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;VECTOR_OPS;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;MATRIX_CALC;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;PIPELINE_RUN;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;API_GATEWAY;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;BATCH_PROCESS;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;STREAM_DATA;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;MODEL_TRAIN;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;INFERENCE_RUN;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;CLUSTER_SYNC;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;GRADIENT_FLOW;%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE;END_OF_LINE" alt="Sidebar animation" />
+    </td>
+    <td width="80%" valign="top">
+
+> [!TIP]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=00FF9D&width=650&lines=%E2%96%AE+CURRENTLY_WORKING:+RAG_ARCHITECTURES;%E2%96%AE+STATUS:+OPTIMIZING_VECTOR_SEARCH" />
+> **🔭 Advanced Machine Learning projects, Retrieval-Augmented Generation (RAG), and LangChain integrations.**
+
+> [!NOTE]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&width=650&lines=%E2%9C%A7+DEEP_DIVING:+AUTONOMOUS_AGENTS;%E2%9C%A7+RESEARCHING:+LLM_FINE_TUNING" />
+> **🧠 Deep Diving into autonomous AI platforms (like OpenClaw), Computer Vision (Face Mask Detection), and LLM pipelines.**
+
+> [!IMPORTANT]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=BD5FFF&width=650&lines=%E2%9D%96+DEVELOPING:+SMART_POS_SYSTEMS;%E2%9D%96+MISSION:+FULL_STACK_INTEGRATION" />
+> **💻 Bridging the gap between AI and applications by integrating Strapi, Django, and MERN stack for robust business solutions.**
+
+> [!WARNING]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=F9AB00&width=650&lines=%E2%96%B3+LEARNING_JOURNEY:+WEB_3.0;%E2%96%B3+LEVELING_UP:+UI_FOR_WEARABLES" />
+> **🌱 Exploring Web 3.0 technologies and designing innovative UIs for screenless hardware (like smart rings).**
+
+> [!CAUTION]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=FF5252&width=650&lines=%E2%9C%AA+ASK_ME:+ML_ARCHITECTURE;%E2%9C%AA+QUERY:+SOFTWARE_QUALITY_ASSURANCE" />
+> **💬 Reach out regarding Data Science, ML consultation, complex database structures, and Senior-level SQA.**
+
+> [!IMPORTANT]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=2000&color=00D9FF&width=650&lines=%E2%9A%A1+FUN_FACT:+I_MOD_VICE_CITY;%E2%9A%A1+PRINCIPLE:+AS_AN_INDIVIDUAL_DEV" />
+> **⚡ I tackle massive architectures as a solo developer! Also, I mod retro games like GTA: Vice City in my downtime 🎮**
+
+   </td>
+  </tr>
+</table>
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="4"/>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/YOUR_UPWORK" target="_blank">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="4"/>
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<div align="center">
+
+### 🤖 Data Science & AI Architectures
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 📊 Data & Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💻 Full-Stack Integration
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="4"/>
+
+<h2 align="center">🐍 Contributions</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedabuzar/ahmedabuzar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedabuzar/ahmedabuzar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmedabuzar/ahmedabuzar/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br>
+  <em>*Note: Make sure to replace "ahmedabuzar" in the snake animation URL with your actual GitHub username.*</em>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="4"/>
+
+<h2 align="center">💭 Funny Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=LLMs+need+more+context,+my+RAG+is+burning!;Training+loops+never+end,+coffee+is+my+best+optimizer;Debugging+is+just+another+form+of+meditation&author=Ahmed+Abuzar" alt="Funny Dev Quote"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="4"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Show+some+love+by+starring+repos!;Support+my+independent+journey!;Let's+build+amazing+things+together!" alt="Call to action" />
+
+<br/>
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-FF6B6B?style=for-the-badge&logoColor=white" alt="Star Repositories" height="50"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=Made+with+love+by+Ahmed+Abuzar;Data+Scientist+%7C+Problem+Solver;Building+the+Future+with+Code" alt="Made with love" />
+
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB">
+  <img src="https://img.shields.io/badge/👨‍💻_Follow-Ahmed_Abuzar-FF6B6B?style=for-the-badge" alt="Follow" height="40"/>
+</a>
+
+</div>
